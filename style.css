@@ -1,0 +1,19 @@
+#Title{
+    color:black;
+    text-align: center;
+    font-family:cursive;
+    border-style:double;
+    border-right-width: thick;
+    border-left-width: thick;
+    border-top-width: thick;
+    border-bottom-width: thick;
+    border-bottom-right-radius: 600px;
+    border-bottom-left-radius: 600px;
+    border-top-left-radius: 600px;
+    border-top-right-radius: 600px;
+    box-shadow: 10px 5px 5px black;
+    background-color: rgb(179, 179, 255);
+    border-width: 10px;
+    width: 325px;
+    height: 50px;
+}
